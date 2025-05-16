@@ -84,7 +84,4 @@ Found an issue? Open a ticket or submit a PR:
 4. Push to branch (`git push origin improvement/feature`)
 5. Open Pull Request
 
-## License 📄
-MIT License - See [LICENSE](LICENSE) for full text
-
 For complete configuration details, see the [WireGuard Documentation](https://www.wireguard.com/).
