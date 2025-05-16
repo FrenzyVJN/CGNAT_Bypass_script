@@ -1,6 +1,4 @@
-```markdown
-# CGNAT Bypass with WireGuard VPN and Reverse Proxy ![GitHub forks](https://img.shields.io/github/forks/yourusername/cgnat-bypass?style=social) ![GitHub stars](https://img.shields.io/github/stars/yourusername/cgnat-bypass?style=social)
-
+# CGNAT Bypass with WireGuard VPN and Reverse Proxy 
 A robust solution for exposing home servers behind Carrier-Grade NAT (CGNAT) using a free-tier VPS as a secure relay. Combines WireGuard VPN with Nginx reverse proxy for reliable service exposure.
 
 ## Features 🔌
